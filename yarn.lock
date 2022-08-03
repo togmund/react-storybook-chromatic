@@ -13004,6 +13004,11 @@ synchronous-promise@^2.0.15:
   resolved "https://registry.yarnpkg.com/synchronous-promise/-/synchronous-promise-2.0.15.tgz#07ca1822b9de0001f5ff73595f3d08c4f720eb8e"
   integrity sha512-k8uzYIkIVwmT+TcglpdN50pS2y1BDcUnBPK9iJeGu0Pl1lOI8pD6wtzgw91Pjpe+RxtTncw32tLxs/R0yNL2Mg==
 
+tachyons@4.10.0:
+  version "4.10.0"
+  resolved "https://registry.yarnpkg.com/tachyons/-/tachyons-4.10.0.tgz#87fa088e88d9759983f2a1b0efd01d767bbef87b"
+  integrity sha512-50KOizE6V9QB7LdQqVLsLw17dnBzxonC2JWhmbu8xnQYUoyqV+Gcx678NwVM+O8A7jljobtC6QMl/hc8UZOzAA==
+
 tailwindcss@^3.0.2:
   version "3.0.7"
   resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.0.7.tgz#15936881f042a7eb8d6f2b6a454bac9f51181bbd"
